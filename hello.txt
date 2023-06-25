@@ -4,3 +4,4 @@ hello.txt  32
 hello.txt  m   1
 hello.txt  h   1 
 hello.txt  g   1
+hello.txt  f   1
