@@ -1,3 +1,5 @@
 hello.txt  1
 hello.txt  2
-hello.txt  3
+hello.txt  32
+hello.txt  m   1
+hello.txt  h   1 
